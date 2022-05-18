@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Macondo&family=Mukta:wght@200&family=Roboto+Slab&family=Roboto:wght@500&family=Water+Brush&display=swap');
+button{
+    height: 35px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 30px;
+    font-size: 15px;
+    background-color: rgb(58, 158, 158);
+    color: rgb(54, 4, 4);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.App > div > h1{
+    font-family: 'Lora', serif;
+}
+  
