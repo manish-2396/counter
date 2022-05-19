@@ -16,7 +16,7 @@ const Count = ({intial})=>{
     return (
         <div>
         <h1>Counter App : <snap style = {{color:a}}>{count}</snap>  </h1>
-        <button onClick={() =>setCount(+(count)+1)}>Increament</button>
+        <button onClick={() =>setCount(count+1)}>Increament</button>
         <button onClick={() =>{
         if(count>0){
             setCount(count-1)
